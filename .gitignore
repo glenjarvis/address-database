@@ -15,3 +15,7 @@
 *.exe
 *.out
 *.app
+ab2
+
+# Generated database file
+addressbook.dat
