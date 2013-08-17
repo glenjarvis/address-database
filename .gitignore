@@ -19,3 +19,6 @@ ab2
 
 # Generated database file
 addressbook.dat
+
+# OSX
+.DS_Store
